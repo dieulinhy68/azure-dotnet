@@ -10,7 +10,7 @@ pool:
   name: dlinh-u-agent
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world dlinh !
   displayName: 'Run a one-line script'
 
 - script: |
